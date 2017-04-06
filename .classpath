@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/cucumber-core-1.2.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/cucumber-reporting-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/phantomjs-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fernanda/cucumber/rmtest-cucumber-selenium-2.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
